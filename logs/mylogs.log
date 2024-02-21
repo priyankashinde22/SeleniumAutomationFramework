@@ -1,0 +1,352 @@
+20240216 21:28:27 INFO  [main] automation.SalesforceLogin SalesforceLogin.java27 - Login | Salesforce
+20240216 21:28:35 INFO  [main] automation.SalesforceLogin SalesforceLogin.java48 - Test case passed
+20240216 21:30:24 INFO  [main] automation.SalesforceLogin SalesforceLogin.java27 - Login | Salesforce
+20240216 21:30:31 INFO  [main] automation.SalesforceLogin SalesforceLogin.java48 - Test case passed
+20240216 21:32:06 INFO  [main] automation.SalesforceLogin SalesforceLogin.java27 - Login | Salesforce
+20240216 21:32:13 ERROR [main] automation.SalesforceLogin SalesforceLogin.java52 - Test case failed
+20240216 21:45:16 INFO  [main] automation.SalesforceLogin SalesforceLogin.java28 - Login | Salesforce
+20240216 21:45:19 INFO  [main] automation.SalesforceLogin SalesforceLogin.java45 - Please enter your password.
+20240216 21:47:17 INFO  [main] automation.SalesforceLogin SalesforceLogin.java28 - Login | Salesforce
+20240216 21:47:19 INFO  [main] automation.SalesforceLogin SalesforceLogin.java45 - Please enter your password.
+20240216 21:47:19 ERROR [main] automation.SalesforceLogin SalesforceLogin.java53 - Test case failed
+20240216 22:22:30 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 22:22:35 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:22:35 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:22:37 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:22:37 INFO  [main] base.BaseTest BaseTest.java115 - Login Page :title=Login | Salesforce
+20240216 22:22:37 INFO  [main] automation.SalesforceLogin SalesforceLogin.java28 - Login | Salesforce
+20240216 22:22:39 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Username textbox
+20240216 22:22:39 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Password textbox
+20240216 22:22:40 INFO  [main] base.BaseTest BaseTest.java83 - Log Inelement is clicked
+20240216 22:22:40 INFO  [main] automation.SalesforceLogin SalesforceLogin.java45 - Please enter your password.
+20240216 22:22:40 ERROR [main] automation.SalesforceLogin SalesforceLogin.java53 - Test case failed
+20240216 22:22:40 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 22:22:40 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240216 22:22:40 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 22:22:43 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:22:43 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:22:44 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:22:50 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Username textbox textbox
+20240216 22:22:50 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Password textbox
+20240216 22:22:58 INFO  [main] base.BaseTest BaseTest.java83 - Log Inelement is clicked
+20240216 22:23:03 INFO  [main] base.BaseTest BaseTest.java115 - Home Pagetitle=Home Page ~ Salesforce - Developer Edition
+20240216 22:23:03 INFO  [main] base.BaseSalesforce BaseSalesforce.java46 - Homepage is displayed
+20240216 22:23:03 INFO  [main] base.BaseTest BaseTest.java104 - text is extracted from Login User Name
+20240216 22:23:03 INFO  [main] base.BaseSalesforce BaseSalesforce.java57 - Login with wrong username
+20240216 22:23:03 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 22:23:03 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240216 22:33:56 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 22:34:03 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:34:03 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:34:05 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:34:10 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:34:10 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:34:11 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:34:11 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:34:11 INFO  [main] automation.SalesforceLogin SalesforceLogin.java69 - Salesforce application page is displayed
+20240216 22:34:12 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Username textbox
+20240216 22:34:12 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Password textbox
+20240216 22:34:13 INFO  [main] base.BaseTest BaseTest.java94 - Remember checkboxelement is cheked
+20240216 22:34:19 INFO  [main] base.BaseTest BaseTest.java83 - Log Inelement is clicked
+20240216 22:34:24 INFO  [main] base.BaseTest BaseTest.java115 - Home Pagetitle=Home Page ~ Salesforce - Developer Edition
+20240216 22:34:24 INFO  [main] automation.SalesforceLogin SalesforceLogin.java85 - Homepage is displayed
+20240216 22:34:24 INFO  [main] base.BaseTest BaseTest.java83 - User-nav arrowelement is clicked
+20240216 22:34:28 INFO  [main] base.BaseTest BaseTest.java83 - Logout linkelement is clicked
+20240216 22:34:32 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:34:32 INFO  [main] base.BaseSalesforce BaseSalesforce.java81 - Salesforce application login page is displayed
+20240216 22:34:37 INFO  [main] automation.SalesforceLogin SalesforceLogin.java94 - CheckBox rememberme is checked
+20240216 22:34:37 INFO  [main] automation.SalesforceLogin SalesforceLogin.java100 - priyanka@house.com
+20240216 22:34:37 INFO  [main] automation.SalesforceLogin SalesforceLogin.java102 - Testcase is Passed
+20240216 22:34:37 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240216 22:34:37 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 22:37:15 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 22:37:20 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:37:20 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:37:22 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:37:26 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:37:27 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:37:28 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:37:28 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:37:28 INFO  [main] automation.SalesforceLogin SalesforceLogin.java69 - Salesforce application page is displayed
+20240216 22:37:30 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Username textbox
+20240216 22:37:30 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Password textbox
+20240216 22:37:31 INFO  [main] base.BaseTest BaseTest.java94 - Remember checkboxelement is cheked
+20240216 22:37:36 INFO  [main] base.BaseTest BaseTest.java83 - Log Inelement is clicked
+20240216 22:37:41 INFO  [main] base.BaseTest BaseTest.java115 - Home Pagetitle=Home Page ~ Salesforce - Developer Edition
+20240216 22:37:41 INFO  [main] automation.SalesforceLogin SalesforceLogin.java85 - Homepage is displayed
+20240216 22:37:41 INFO  [main] base.BaseTest BaseTest.java83 - User-nav arrowelement is clicked
+20240216 22:37:46 INFO  [main] base.BaseTest BaseTest.java83 - Logout linkelement is clicked
+20240216 22:37:50 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:37:50 INFO  [main] base.BaseSalesforce BaseSalesforce.java81 - Salesforce application login page is displayed
+20240216 22:37:54 INFO  [main] automation.SalesforceLogin SalesforceLogin.java95 - CheckBox rememberme is checked
+20240216 22:37:54 INFO  [main] automation.SalesforceLogin SalesforceLogin.java101 - 
+20240216 22:37:54 ERROR [main] automation.SalesforceLogin SalesforceLogin.java105 - Testcase is failed
+20240216 22:37:54 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 22:37:54 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240216 22:41:11 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 22:41:16 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:41:16 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:41:18 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:41:22 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:41:22 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:41:24 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:41:24 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:41:24 INFO  [main] automation.SalesforceLogin SalesforceLogin.java69 - Salesforce application page is displayed
+20240216 22:41:25 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Username textbox
+20240216 22:41:26 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Password textbox
+20240216 22:41:27 INFO  [main] base.BaseTest BaseTest.java94 - Remember checkboxelement is cheked
+20240216 22:41:34 INFO  [main] base.BaseTest BaseTest.java83 - Log Inelement is clicked
+20240216 22:41:39 INFO  [main] base.BaseTest BaseTest.java115 - Home Pagetitle=Home Page ~ Salesforce - Developer Edition
+20240216 22:41:39 INFO  [main] automation.SalesforceLogin SalesforceLogin.java85 - Homepage is displayed
+20240216 22:41:39 INFO  [main] base.BaseTest BaseTest.java83 - User-nav arrowelement is clicked
+20240216 22:41:44 INFO  [main] base.BaseTest BaseTest.java83 - Logout linkelement is clicked
+20240216 22:41:48 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:41:48 INFO  [main] base.BaseSalesforce BaseSalesforce.java81 - Salesforce application login page is displayed
+20240216 22:41:52 INFO  [main] automation.SalesforceLogin SalesforceLogin.java95 - CheckBox rememberme is checked
+20240216 22:41:52 INFO  [main] automation.SalesforceLogin SalesforceLogin.java101 - null
+20240216 22:41:52 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 22:41:53 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240216 22:44:52 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 22:44:57 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:44:58 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:44:59 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:45:03 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 22:45:04 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 22:45:04 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 22:45:04 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:45:04 INFO  [main] automation.SalesforceLogin SalesforceLogin.java69 - Salesforce application page is displayed
+20240216 22:45:05 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Username textbox
+20240216 22:45:05 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Password textbox
+20240216 22:45:06 INFO  [main] base.BaseTest BaseTest.java94 - Remember checkboxelement is cheked
+20240216 22:45:13 INFO  [main] base.BaseTest BaseTest.java83 - Log Inelement is clicked
+20240216 22:45:18 INFO  [main] base.BaseTest BaseTest.java115 - Home Pagetitle=Home Page ~ Salesforce - Developer Edition
+20240216 22:45:18 INFO  [main] automation.SalesforceLogin SalesforceLogin.java85 - Homepage is displayed
+20240216 22:45:18 INFO  [main] base.BaseTest BaseTest.java83 - User-nav arrowelement is clicked
+20240216 22:45:22 INFO  [main] base.BaseTest BaseTest.java83 - Logout linkelement is clicked
+20240216 22:45:26 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 22:45:26 INFO  [main] base.BaseSalesforce BaseSalesforce.java81 - Salesforce application login page is displayed
+20240216 22:45:30 INFO  [main] automation.SalesforceLogin SalesforceLogin.java95 - CheckBox rememberme is checked
+20240216 22:45:30 INFO  [main] automation.SalesforceLogin SalesforceLogin.java103 - priyanka@house.com
+20240216 22:45:30 INFO  [main] automation.SalesforceLogin SalesforceLogin.java105 - Testcase is Passed
+20240216 22:45:30 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 22:45:31 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240216 23:03:21 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 23:03:27 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 23:03:27 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 23:03:29 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 23:03:34 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 23:03:34 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 23:03:35 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 23:03:35 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 23:03:35 INFO  [main] automation.SalesforceLogin SalesforceLogin.java125 - Salesforce application login page is displayed
+20240216 23:03:36 INFO  [main] base.BaseTest BaseTest.java83 - Forgot password linkelement is clicked
+20240216 23:03:36 INFO  [main] base.BaseTest BaseTest.java115 - Forgot password link Pagetitle=Forgot Your Password | Salesforce
+20240216 23:03:36 INFO  [main] automation.SalesforceLogin SalesforceLogin.java134 - Saleforce forgot password page is displyed.
+20240216 23:03:36 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Forgot password textbox textbox
+20240216 23:03:36 INFO  [main] base.BaseTest BaseTest.java83 - Forgot password textboxelement is clicked
+20240216 23:03:36 INFO  [main] base.BaseTest BaseTest.java104 - text is extracted from Check your email
+20240216 23:03:36 INFO  [main] automation.SalesforceLogin SalesforceLogin.java145 - Check Your Email
+20240216 23:03:36 INFO  [main] automation.SalesforceLogin SalesforceLogin.java147 - Test case is passed
+20240216 23:03:36 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 23:03:37 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240216 23:11:49 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240216 23:11:54 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 23:11:54 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 23:11:56 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 23:12:00 INFO  [main] base.BaseTest BaseTest.java29 - browser instance chrome created.
+20240216 23:12:01 INFO  [main] base.BaseTest BaseTest.java31 - window is maximized
+20240216 23:12:04 INFO  [main] base.BaseTest BaseTest.java66 - https://login.salesforce.com/is entered
+20240216 23:12:04 INFO  [main] base.BaseTest BaseTest.java115 - Login Pagetitle=Login | Salesforce
+20240216 23:12:04 INFO  [main] automation.SalesforceLogin SalesforceLogin.java161 - Salesforce application login page is displayed
+20240216 23:12:04 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Username textbox
+20240216 23:12:04 INFO  [main] base.BaseTest BaseTest.java74 - username data is entered in Password textbox
+20240216 23:12:05 INFO  [main] base.BaseTest BaseTest.java83 - Log Inelement is clicked
+20240216 23:12:10 INFO  [main] base.BaseTest BaseTest.java104 - text is extracted from Error message
+20240216 23:12:10 INFO  [main] automation.SalesforceLogin SalesforceLogin.java177 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240216 23:12:10 INFO  [main] automation.SalesforceLogin SalesforceLogin.java179 - Test case is Passed
+20240216 23:12:10 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240216 23:12:10 INFO  [main] base.BaseTest BaseTest.java316 - browser instance closed
+20240218 09:18:16 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 09:18:17 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 09:18:23 INFO  [main] base.BaseTest BaseTest.java37 - browser instance chrome created.
+20240218 09:18:23 INFO  [main] base.BaseTest BaseTest.java39 - window is maximized
+20240218 09:18:25 INFO  [main] base.BaseTest BaseTest.java74 - https://login.salesforce.com/is entered
+20240218 09:18:25 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 09:18:25 INFO  [main] base.BaseTest BaseTest.java123 - Login Page :title=Login | Salesforce
+20240218 09:18:25 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 09:18:28 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Username textbox
+20240218 09:18:28 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Password textbox
+20240218 09:18:29 INFO  [main] base.BaseTest BaseTest.java91 - Log Inelement is clicked
+20240218 09:18:29 INFO  [main] automation.SalesforceLogin SalesforceLogin.java43 - Please enter your password.
+20240218 09:18:29 INFO  [main] automation.SalesforceLogin SalesforceLogin.java46 - Test case passed
+20240218 09:18:29 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java31 - errorMessageLoginTC1.......test execution completed with success........
+20240218 09:18:29 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240218 09:18:30 INFO  [main] base.BaseTest BaseTest.java354 - browser instance closed
+20240218 09:18:30 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 09:22:43 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 09:22:43 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 09:22:49 INFO  [main] base.BaseTest BaseTest.java37 - browser instance chrome created.
+20240218 09:22:50 INFO  [main] base.BaseTest BaseTest.java39 - window is maximized
+20240218 09:22:52 INFO  [main] base.BaseTest BaseTest.java74 - https://login.salesforce.com/is entered
+20240218 09:22:52 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 09:22:52 INFO  [main] base.BaseTest BaseTest.java123 - Login Page :title=Login | Salesforce
+20240218 09:22:52 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 09:22:55 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Username textbox
+20240218 09:22:55 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Password textbox
+20240218 09:22:56 INFO  [main] base.BaseTest BaseTest.java91 - Log Inelement is clicked
+20240218 09:22:56 INFO  [main] automation.SalesforceLogin SalesforceLogin.java43 - Please enter your password.
+20240218 09:22:56 ERROR [main] automation.SalesforceLogin SalesforceLogin.java49 - Test case failed
+20240218 09:22:56 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java31 - errorMessageLoginTC1.......test execution completed with success........
+20240218 09:22:56 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240218 09:22:57 INFO  [main] base.BaseTest BaseTest.java354 - browser instance closed
+20240218 09:22:57 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 10:00:49 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 10:00:49 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 10:00:56 INFO  [main] base.BaseTest BaseTest.java37 - browser instance chrome created.
+20240218 10:00:56 INFO  [main] base.BaseTest BaseTest.java39 - window is maximized
+20240218 10:00:57 INFO  [main] base.BaseTest BaseTest.java74 - https://login.salesforce.com/is entered
+20240218 10:00:57 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 10:00:57 INFO  [main] base.BaseTest BaseTest.java123 - Login Page :title=Login | Salesforce
+20240218 10:00:57 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 10:01:02 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Username textbox
+20240218 10:01:03 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Password textbox
+20240218 10:01:03 INFO  [main] base.BaseTest BaseTest.java91 - Log Inelement is clicked
+20240218 10:01:03 INFO  [main] automation.SalesforceLogin SalesforceLogin.java43 - Please enter your password.
+20240218 10:01:04 ERROR [main] automation.SalesforceLogin SalesforceLogin.java49 - Test case failed
+20240218 10:01:04 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java31 - errorMessageLoginTC1.......test execution completed with success........
+20240218 10:01:04 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240218 10:01:04 INFO  [main] base.BaseTest BaseTest.java354 - browser instance closed
+20240218 10:01:04 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 10:02:07 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 10:02:08 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 10:02:12 INFO  [main] base.BaseTest BaseTest.java37 - browser instance chrome created.
+20240218 10:02:12 INFO  [main] base.BaseTest BaseTest.java39 - window is maximized
+20240218 10:02:13 INFO  [main] base.BaseTest BaseTest.java74 - https://login.salesforce.com/is entered
+20240218 10:02:13 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 10:02:13 INFO  [main] base.BaseTest BaseTest.java123 - Login Page :title=Login | Salesforce
+20240218 10:02:13 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 10:02:13 ERROR [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java40 - errorMessageLoginTC1.......test execution completed with failure........
+20240218 10:02:14 INFO  [main] base.BaseTest BaseTest.java372 - captured the screen
+20240218 10:02:14 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240218 10:02:15 INFO  [main] base.BaseTest BaseTest.java354 - browser instance closed
+20240218 10:02:15 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 10:03:12 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 10:03:12 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 10:03:17 INFO  [main] base.BaseTest BaseTest.java37 - browser instance chrome created.
+20240218 10:03:18 INFO  [main] base.BaseTest BaseTest.java39 - window is maximized
+20240218 10:03:18 INFO  [main] base.BaseTest BaseTest.java74 - https://login.salesforce.com/is entered
+20240218 10:03:18 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 10:03:19 INFO  [main] base.BaseTest BaseTest.java123 - Login Page :title=Login | Salesforce
+20240218 10:03:19 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 10:03:21 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Username textbox
+20240218 10:03:21 INFO  [main] base.BaseTest BaseTest.java82 - username data is entered in Password textbox
+20240218 10:03:22 INFO  [main] base.BaseTest BaseTest.java91 - Log Inelement is clicked
+20240218 10:03:22 INFO  [main] automation.SalesforceLogin SalesforceLogin.java43 - Please enter your password.
+20240218 10:03:22 INFO  [main] automation.SalesforceLogin SalesforceLogin.java46 - Test case passed
+20240218 10:03:22 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java31 - errorMessageLoginTC1.......test execution completed with success........
+20240218 10:03:22 INFO  [main] base.BaseSalesforce BaseSalesforce.java65 - -----tearDownAfterTestMethod executed----
+20240218 10:03:23 INFO  [main] base.BaseTest BaseTest.java354 - browser instance closed
+20240218 10:03:23 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 10:52:34 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 10:52:35 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 10:52:43 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 10:52:43 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 10:52:43 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 11:02:45 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 11:02:46 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 11:02:52 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 11:02:52 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 11:02:53 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 11:02:53 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 11:02:53 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 11:02:53 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 11:02:55 INFO  [main] base.BaseTest BaseTest.java96 - username data is entered in Username textbox
+20240218 11:02:55 INFO  [main] base.BaseTest BaseTest.java96 - username data is entered in Password textbox
+20240218 11:02:56 INFO  [main] base.BaseTest BaseTest.java109 - Log Inelement is clicked
+20240218 11:02:56 INFO  [main] automation.SalesforceLogin SalesforceLogin.java43 - Please enter your password.
+20240218 11:02:57 INFO  [main] automation.SalesforceLogin SalesforceLogin.java46 - Test case passed
+20240218 11:02:57 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java31 - errorMessageLoginTC1.......test execution completed with success........
+20240218 11:02:57 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 11:02:57 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 11:02:57 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 11:04:05 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 11:04:06 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 11:04:12 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 11:04:12 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 11:04:14 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 11:04:14 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 11:04:15 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 11:04:15 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 11:04:15 ERROR [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java40 - errorMessageLoginTC1.......test execution completed with failure........
+20240218 11:04:16 INFO  [main] base.BaseTest BaseTest.java403 - captured the screen
+20240218 11:04:16 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 11:04:16 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 11:04:16 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 11:04:18 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 11:04:18 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 11:04:22 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 11:04:22 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 11:04:25 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 11:04:25 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 11:04:25 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 11:04:25 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 11:04:25 ERROR [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java40 - errorMessageLoginTC1.......test execution completed with failure........
+20240218 11:04:27 INFO  [main] base.BaseTest BaseTest.java403 - captured the screen
+20240218 11:04:27 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 11:04:27 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 11:04:27 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 14:35:25 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 14:35:32 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 14:35:33 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 14:35:33 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 14:35:34 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 14:35:34 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 14:35:34 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 14:36:08 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 14:36:12 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 14:36:13 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 14:36:15 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 14:36:15 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 14:36:15 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 14:36:15 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 14:37:17 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 14:37:21 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 14:37:21 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 14:37:22 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 14:37:22 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 14:37:22 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 14:37:22 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 14:39:17 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 14:39:17 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 14:39:22 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 14:39:22 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 14:39:23 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 14:39:23 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 14:39:23 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 14:39:23 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 14:39:24 INFO  [main] base.BaseTest BaseTest.java96 - username data is entered in Username textbox
+20240218 14:39:25 INFO  [main] base.BaseTest BaseTest.java96 - username data is entered in Password textbox
+20240218 14:39:25 INFO  [main] base.BaseTest BaseTest.java109 - Log Inelement is clicked
+20240218 14:39:25 INFO  [main] automation.SalesforceLogin SalesforceLogin.java43 - Please enter your password.
+20240218 14:39:26 INFO  [main] automation.SalesforceLogin SalesforceLogin.java46 - Test case passed
+20240218 14:39:26 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java31 - errorMessageLoginTC1.......test execution completed with success........
+20240218 14:39:26 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 14:39:26 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 14:39:26 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
+20240218 14:40:20 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java56 - RegressionTest has started....................
+20240218 14:40:21 INFO  [main] base.BaseSalesforce BaseSalesforce.java23 - -----SetupBeforeMethod executed----
+20240218 14:40:25 INFO  [main] base.BaseTest BaseTest.java39 - browser instance chrome created.
+20240218 14:40:25 INFO  [main] base.BaseTest BaseTest.java42 - window is maximized
+20240218 14:40:26 INFO  [main] base.BaseTest BaseTest.java87 - https://login.salesforce.com/is entered
+20240218 14:40:26 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java22 - errorMessageLoginTC1.......test execution started........
+20240218 14:40:26 INFO  [main] base.BaseTest BaseTest.java146 - Login Page :title=Login | Salesforce
+20240218 14:40:26 INFO  [main] automation.SalesforceLogin SalesforceLogin.java25 - Login | Salesforce
+20240218 14:40:28 INFO  [main] base.BaseTest BaseTest.java96 - username data is entered in Username textbox
+20240218 14:40:28 INFO  [main] base.BaseTest BaseTest.java96 - username data is entered in Password textbox
+20240218 14:40:29 INFO  [main] base.BaseTest BaseTest.java109 - Log Inelement is clicked
+20240218 14:40:29 INFO  [main] automation.SalesforceLogin SalesforceLogin.java43 - Please enter your password.
+20240218 14:40:29 INFO  [main] automation.SalesforceLogin SalesforceLogin.java46 - Test case passed
+20240218 14:40:29 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java31 - errorMessageLoginTC1.......test execution completed with success........
+20240218 14:40:29 INFO  [main] base.BaseSalesforce BaseSalesforce.java66 - -----tearDownAfterTestMethod executed----
+20240218 14:40:29 INFO  [main] base.BaseTest BaseTest.java385 - browser instance closed
+20240218 14:40:29 INFO  [main] utilities.SalesforcebaseListenerUtility SalesforcebaseListenerUtility.java65 - RegressionTest has ended....................
